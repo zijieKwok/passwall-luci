@@ -1,6 +1,6 @@
 
 ## passwall与依赖下载:
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zijieKwok/passwall-luci?style=for-the-badge&label=前去下载)](https://github.com/zijieKwok/passwall-luci/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/zijieKwok/passwall-luci?style=for-the-badge&label=最新版本下载)](https://github.com/zijieKwok/passwall-luci/releases/latest)
 ##### passwall自动云编译
 [![GitHub Repo stars](https://img.shields.io/github/stars/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=stargazer_counts)
