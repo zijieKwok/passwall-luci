@@ -3,7 +3,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=stargazer_counts)
 [![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/commits)
 [![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/zijieKwok/passwall-luci)](https://github.com/zijieKwok/luci-app-passwall/commits)
-[![Workflow Status](https://github.com/zijieKwok/passwall-luci/actions/workflows/.github/workflows/Auto_compile_with_openwrt_sdk.yml/badge.svg)](https://github.com/zijieKwok/passwall-luci/actions)
+[![Workflow Status](https://github.com/zijieKwok/passwall-luci/actions/workflows/.github/workflows/Auto-compile-with-openwrt-sdk.yml/badge.svg)](https://github.com/zijieKwok/passwall-luci/actions)
 
 
 #### 使用方式
