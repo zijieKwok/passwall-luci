@@ -1,5 +1,5 @@
 
-## 插件下载:
+## passwall与依赖下载:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/zijieKwok/passwall-luci?style=for-the-badge&label=x86_64插件下载)](https://github.com/zijieKwok/passwall-luci/releases/latest)
 ##### passwall自动云编译
 [![GitHub Repo stars](https://img.shields.io/github/stars/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/stargazers)
