@@ -1,6 +1,7 @@
-## passwall软件包自动云编译
-##### 插件下载:
+
+## 插件下载:
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/zijieKwok/passwall-luci?style=for-the-badge&label=x86_64插件下载)](https://github.com/zijieKwok/passwall-luci/releases/latest)
+##### passwall软件包自动云编译
 [![GitHub Repo stars](https://img.shields.io/github/stars/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=2y&sort_by=stargazer_counts)
 [![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/zijieKwok/passwall-luci)](https://github.com/zijieKwok/passwall-luci/commits)
