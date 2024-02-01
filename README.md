@@ -12,13 +12,9 @@
 ### 使用方式
 ```yaml
 
-默认ssr与passwall的插件与依赖整合包
 
 使用方法：将整合包上传到openwrt设备的tmp目录，输入命令 opkg install *.ipk
 
-默认压缩包里包含passwall及依赖插件
-
-如果单独安装ssr与依赖，rm -rf {*passwall*}
 ```
 
 
